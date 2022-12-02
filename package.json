@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olivergg1/AdventOfCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olivergg1/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/Olivergg1/AdventOfCode#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
